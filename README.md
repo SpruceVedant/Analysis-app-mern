@@ -9,6 +9,7 @@ Advanced Charting: Visualize crypto data using interactive and customizable char
 
 Technologies Used
 Front-end: React, Material UI
+
 Back-end: Axios, Node.js, Express.js
 
 External APIs: Coingecko
