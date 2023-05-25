@@ -25,3 +25,16 @@ Installation
 
 4. Open the web app in your browser:
   `http://localhost:3000`
+
+
+Usage
+- Upon opening the app, you will see a landing page where various crypto ticker will be shown
+  with their real time markets and fluctuations.
+
+- You can check the crypto value in INR/USD by selecting from dropdown menu on top right.
+
+- By clicking on any ticker you can Explore real-time crypto data, historical analysis, and interactive charts.
+
+- There is also a range of duration you can select for the type of charts you want to see.
+
+Enjoy using the Crypto Analysis App!
